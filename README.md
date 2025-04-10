@@ -29,8 +29,9 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-
 Your all in! rock it 🙌
+#### 5.Terminate:
+Just in case you're wondering how to stop it 😂 → hit **Ctrl + C** in your terminal!
 
 ## 📖 License
 
