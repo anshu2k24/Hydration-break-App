@@ -12,7 +12,7 @@ Clone this repo and run over it!
 
 #### 1.To clone:
 ```
-git clone https://github.com/anshu2k24/hydration-reminder-app.git
+git clone https://github.com/anshu2k24/Hydration-break-App.git
 ```
 
 #### 2.Install requirements:
