@@ -1,3 +1,5 @@
+# Hydration break App
+
 from plyer import notification as nt
 import time as t
 import pandas as pd
