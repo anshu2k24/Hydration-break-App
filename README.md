@@ -34,7 +34,3 @@ This project is licensed under the **MIT License**.
 ## 💬 Let’s Stay in Touch:
 
 - **Email:** mail2panshu@gmail.com ✉️
-
- 
-
-### 🙏 Thank You for Exploring! 🎉
