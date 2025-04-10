@@ -15,12 +15,17 @@ Clone this repo and run over it!
 git clone https://github.com/anshu2k24/Hydration-break-App.git
 ```
 
-#### 2.Install requirements:
+#### 2.Hop into the Hydration-break-App folder :
+```
+cd .\Hydration-break-App\
+```
+
+#### 3.Install requirements:
 ```
 pip install -r requirements.txt
 ```
 
-#### 3.Run the app in your terminal:
+#### 4.Run the app in your terminal:
 ```
 python main.py
 ```
