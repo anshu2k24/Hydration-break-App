@@ -7,7 +7,7 @@ A Python buddy that reminds you to sip some water 🥤, step away ☁️, and cl
 - Fun messages with emojis
 - Super lightweight & customizable
 
-### Setup 🚀:
+## Setup 🚀:
 Clone this repo and run over it!
 
 #### 1.To clone:
@@ -31,12 +31,10 @@ Your all in! rock it 🙌
 
 This project is licensed under the **MIT License**.
 
----
-
-### 💬 Let’s Stay in Touch:
+## 💬 Let’s Stay in Touch:
 
 - **Email:** mail2panshu@gmail.com ✉️
 
----
+ 
 
 ### 🙏 Thank You for Exploring! 🎉
