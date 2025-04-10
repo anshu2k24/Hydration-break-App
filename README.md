@@ -10,18 +10,18 @@ A Python buddy that reminds you to sip some water 🥤, step away ☁️, and cl
 ### Setup 🚀:
 Clone this repo and run over it!
 
-1.To clone:
-bash```
-git clone https://github.com/yourusername/hydration-reminder.git
+#### 1.To clone:
+```
+git clone https://github.com/anshu2k24/hydration-reminder-app.git
 ```
 
-2.Install requirements:
-bash```
+#### 2.Install requirements:
+```
 pip install -r requirements.txt
 ```
 
-3.Run the app in your terminal:
-bash```
+#### 3.Run the app in your terminal:
+```
 python main.py
 ```
 
@@ -29,7 +29,7 @@ Your all in! rock it 🙌
 
 ## 📖 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more info. ⚖️
+This project is licensed under the **MIT License**.
 
 ---
 
